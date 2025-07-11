@@ -2,6 +2,8 @@
 
 A data-driven Power BI dashboard built to visualize and analyze product sales, supplier performance, inventory levels, and category-wise contribution in a retail business.
 
+![Dashboard Screenshot](images/dashboard.png)
+
 ## 📊 Project Overview
 
 This dashboard helps retailers gain critical insights into:
